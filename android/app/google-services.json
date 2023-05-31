@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3333331003",
+    "project_id": "authentication-cc8ee",
+    "storage_bucket": "authentication-cc8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3333331003:android:7dfddf333d130c380fe41e",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3333331003-vmfos4tp1hk0bopikti571ott87ku29a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nwIzZLhe5eKtamasKC0Hxd_xPwkIDlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3333331003-vmfos4tp1hk0bopikti571ott87ku29a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
